@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>HerbalistElvira.github.io/xuziyi</id>
+    <id>https://HerbalistElvira.github.io/</id>
     <title>虚静冥悟</title>
-    <updated>2019-12-15T15:55:52.904Z</updated>
+    <updated>2019-12-15T15:57:16.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="HerbalistElvira.github.io/xuziyi"/>
-    <link rel="self" href="HerbalistElvira.github.io/xuziyi/atom.xml"/>
+    <link rel="alternate" href="https://HerbalistElvira.github.io/"/>
+    <link rel="self" href="https://HerbalistElvira.github.io//atom.xml"/>
     <subtitle>|&gt;&gt;&gt;草药郎中的吟游诗&lt;&lt;&lt;|</subtitle>
-    <logo>HerbalistElvira.github.io/xuziyi/images/avatar.png</logo>
-    <icon>HerbalistElvira.github.io/xuziyi/favicon.ico</icon>
+    <logo>https://HerbalistElvira.github.io//images/avatar.png</logo>
+    <icon>https://HerbalistElvira.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 虚静冥悟</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>HerbalistElvira.github.io/xuziyi/post/hello-gridea</id>
-        <link href="HerbalistElvira.github.io/xuziyi/post/hello-gridea">
+        <id>https://HerbalistElvira.github.io//post/hello-gridea</id>
+        <link href="https://HerbalistElvira.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
