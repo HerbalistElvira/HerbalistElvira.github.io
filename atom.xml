@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Keeponsurviving.github.io/</id>
     <title>虚静冥悟</title>
-    <updated>2020-08-16T01:37:59.740Z</updated>
+    <updated>2020-08-16T01:57:15.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Keeponsurviving.github.io/"/>
     <link rel="self" href="https://Keeponsurviving.github.io/atom.xml"/>
@@ -20,14 +20,19 @@
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
 <h2 id="关于本站">🏠 关于本站</h2>
-<p>是许紫弈发一些笔记的链接啦~<br>
-主要的共享笔记在这：https://note.xuziyi.ink/</p>
+<ul>
+<li>是为了简化Notion共享页面的链接才开的域名~</li>
+<li><strong>主要的共享笔记在这</strong>：https://note.xuziyi.ink/</li>
+</ul>
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>许紫弈其人，嘿嘿嘿。</p>
+<p>许紫弈其人，嘿嘿嘿。<br>
+Notioner || 道系玩家 || Nerdy One || 延迟追星 ||<br>
+持续性学习 || 间歇性摸鱼</p>
 <h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
 <p>爱好：摸鱼！美男子！</p>
 <h2 id="联系我呀">📬 联系我呀</h2>
-<p>Weibo @_许紫弈</p>
+<p>Weibo @_许紫弈<br>
+快来找我玩~</p>
 ]]></content>
     </entry>
     <entry>
